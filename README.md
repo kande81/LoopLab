@@ -5,5 +5,18 @@
 
 
 
-# LoopLab
-LoopLab is a demo single page website for a consumer good or service
+[LoopLap](https://kande81.github.io/LoopLab/) is a responsive single page demo for a consumer service or product website
+
+## Languages
+- HTML
+- CSS
+
+## Technology
+- Bootstrap
+- Jquery
+
+## Functionalities
+- Modal window pops up when you press the "contact us" button
+- Scrollspy
+- Responsive
+- Image re-ordering at small sizes
