@@ -11,9 +11,10 @@
 - HTML
 - CSS
 
-## Technology
+## Technologies
 - Bootstrap
 - Jquery
+- Font awesome
 
 ## Functionalities
 - Modal window pops up when you press the "contact us" button
